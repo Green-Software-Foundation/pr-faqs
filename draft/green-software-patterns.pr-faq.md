@@ -1,3 +1,7 @@
+---
+working_group: community
+---
+
 # Green Software Foundation releases their catalog of Green Software Patterns to empower software teams throughout the world to build greener applications
 
 In August 2022, the Green Software Foundation released its catalog of Green Software Patterns. An open-source database of software patterns that, if applied, will reduce software emissions. Each pattern has been thoroughly reviewed by experts and agreed upon by all members of the Foundation. The patterns are the next step in the Foundation's goal to create an ecosystem of people with the knowledge of how to build greener applications.
