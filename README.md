@@ -31,9 +31,11 @@ PR-FAQs have 3 stages.
 
 The PR FAQs for each stage can be found here:
 
-- You can find all the proposed PRE-DRAFT PR-FAQs as [active pull requests](https://github.com/Green-Software-Foundation/pr-faqs/pulls) to the dev branch.
-- You can find all the DRAFT PR-FAQs in the [Dev branch](https://github.com/Green-Software-Foundation/pr-faqs/tree/dev).
-- You can find all the LIVE PR-FAQs in the [Main branch](https://github.com/Green-Software-Foundation/pr-faqs/tree/main).
+- You can find all the PRE-DRAFT PR-FAQs in the [pre-draft](/pre-draft/) folder.
+- You can find all the DRAFT PR-FAQs in the [draft](/draft/) folder.
+- You can find all the LIVE PR-FAQs in the [life](/live/) folder.
+
+When you are ready to move a PR-FAQ to the next stage, create a pull request to move it to the next folder, the working group will discuss and the chair of the working group will be asked to review the pull request and give it approval to be merged.
 
 ## Template Press Release
 
