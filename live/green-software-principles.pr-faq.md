@@ -1,7 +1,8 @@
+---
+working_group: community
+---
+
 # Green Software Foundation releases Green Software Practitioner Certification to enable practitioners to understand and reduce their products' carbon emissions
-
-
-
 
 _The most significant bottleneck to adopting green software practices is a lack of knowledge._
 

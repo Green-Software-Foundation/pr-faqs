@@ -1,3 +1,7 @@
+---
+working_group: ops
+---
+
 # The Green Software Foundation publishes its Theory Of Change to enable members understand how the Foundation will meet its mission
 
 In June 2022, the Green Software Foundation published its [Theory Of Change](https://www.theoryofchange.org/what-is-theory-of-change/toc-background/toc-benefits/). A comprehensive description and illustration of how the Foundation will achieve its mission.

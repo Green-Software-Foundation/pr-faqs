@@ -1,3 +1,7 @@
+---
+working_group: [community, standards, policy, open-source, ops]
+---
+
 _This template markdown file is a mirror of this template Google Doc: https://docs.google.com/document/d/1jMxaBv3tnxdR13dT9DniVxEL6Oqay7rHcJ3eCjmD4kA/edit_
 
 # Title: [COMPANY] ANNOUNCES [SERVICE | TECHNOLOGY | TOOL] TO ENABLE [CUSTOMER SEGMENT] TO [BENEFIT STATEMENT].
