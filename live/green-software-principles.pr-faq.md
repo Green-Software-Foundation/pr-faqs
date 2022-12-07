@@ -18,7 +18,7 @@ As organizations look to hire green software talent, we need a method of evaluat
 
 The Green Software Practitioner Certification is the evolution of the initial training on this subject created in 2019, the Principles of Green Software Engineering. The principles helped solve some of the problems in this space but lacked a certification method. Training for the exam should require 2-3 hours so people can level up fast. Certification will be free and administered by a vendor-neutral body. 
 
-"Our goal is to have 1 million people certified as Green Software Practitioners by December 2023" - Asim Hussain, Executive Director at Green Software Foundation.
+"Our goal is to have 1 million people complete our Green Software for Practitioners Course by December 2023" - Asim Hussain, Executive Director at Green Software Foundation.
 
 "I was first introduced to the Green Software Principles in a presentation in 2021. It made me realize that I can do a lot in my profession to fight Climate Change." - Sarah Hsu, Goldman Sachs.
 
