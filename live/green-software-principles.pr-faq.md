@@ -2,11 +2,11 @@
 working_group: community
 ---
 
-# Green Software Foundation releases Green Software Practitioner Certification to enable practitioners to understand and reduce their products' carbon emissions
+# Green Software Foundation releases Green Software for Practitioners Course to enable practitioners to understand and reduce their products' carbon emissions
 
 _The most significant bottleneck to adopting green software practices is a lack of knowledge._
 
-In July 2022, the Green Software Foundation released the first version of its Green Software Practitioner Certification. Freely available training and certification for Green Software Principles.
+In July 2022, the Green Software Foundation released the first version of its Green Software for Practitioners Course. Freely available training and certification for Green Software Principles.
 
 The concepts a software practitioner needs to know to build, maintain and run greener applications are not taught in traditional software curriculums.
 
@@ -16,13 +16,13 @@ The green software space is moving very fast, but the knowledge required to enga
 
 As organizations look to hire green software talent, we need a method of evaluating the knowledge of software practitioners to ensure they meet a minimum and consistent level of understanding.
 
-The Green Software Practitioner Certification is the evolution of the initial training on this subject created in 2019, the Principles of Green Software Engineering. The principles helped solve some of the problems in this space but lacked a certification method. Training for the exam should require 2-3 hours so people can level up fast. Certification will be free and administered by a vendor-neutral body. 
+The Green Software for Practitioners Course is the evolution of the initial training on this subject created in 2019, the Principles of Green Software Engineering. The principles helped solve some of the problems in this space but lacked a certification method. Training for the exam should require 2-3 hours so people can level up fast. The course will be free and administered by a vendor-neutral body. 
 
 "Our goal is to have 1 million people complete our Green Software for Practitioners Course by December 2023" - Asim Hussain, Executive Director at Green Software Foundation.
 
 "I was first introduced to the Green Software Principles in a presentation in 2021. It made me realize that I can do a lot in my profession to fight Climate Change." - Sarah Hsu, Goldman Sachs.
 
-"Questions around the number of employees that are certified in sustainable software often come up in customer conversations, and now with the Green Software Practitioner Certification, it's easier than ever for our employees to level-set their knowledge in this space" - CEO, Consultancy ABC
+"Questions around the number of employees that are trained in sustainable software often come up in customer conversations, and now with the Green Software for Practitioners Course, it's easier than ever for our employees to level-set their knowledge in this space" - CEO, Consultancy ABC
 
 "I would like to see green software engineering become an integral part of the educational curriculum for anyone learning to code. This will bring us a step closer to sustainability being a crucial pillar of consideration when designing software." - Academic Quote.
 
@@ -47,8 +47,8 @@ The Green Software Practitioner Certification is the evolution of the initial tr
   * The Principles and Patterns team in the Green Software Foundation, please see: [https://greensoftware.foundation/projects/principles-and-patterns](http://Link)
 * How often will updates be made to the principles?
   * The team entertain pull requests and comments throughout the year and every year performs a more in depth review to ensure the certification remains upto date.
-* Is the certification free?
-  * Yes, obtaining certification will not cost you any money.
+* Is the course free?
+  * Yes, taking the course will not cost you any money.
 * Is the training going to be free?
   * The GSF will make a free version of the training available online.
   * The training is creative commons so anyone can reuse and remix the training material, perhaps even charge to give it. The Foundation is not involved, responsible or accountable for any derivative training.
