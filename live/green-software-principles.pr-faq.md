@@ -36,13 +36,13 @@ The Green Software for Practitioners Course is the evolution of the initial trai
   * Climate Commitments: Understand the exact mechanism of the reduction.
   * Measuring: What you can't measure, you can't improve.
 * Where can I find the Principles
-  * The principles will be live at https://principles.greensoftware.foundation
+  * The principles will be live at https://learn.greensoftware.foundation/
 * Will it be translated?
   * Yes, languages TBD.
 * What’s the process for changing or updating a principle?
-  * The project is managed in the open through GitHub, as a first step please post an issue in the green software principles repository. https://github.com/Green-Software-Foundation/green-software-principles/issues/new
+  * The project is managed in the open through GitHub, as a first step please post an issue in the green software principles repository. https://github.com/Green-Software-Foundation/training/issues/new/
 * How do we get involved?
-  * Please check out the contributing guidelines in the green software principles repository: https://github.com/Green-Software-Foundation/green-software-principles
+  * Please check out the contributing guidelines in the green software principles repository: https://github.com/Green-Software-Foundation/training/blob/main/README.md
 * Who is the team responsible for the principles?
   * The Principles and Patterns team in the Green Software Foundation, please see: [https://greensoftware.foundation/projects/principles-and-patterns](http://Link)
 * How often will updates be made to the principles?
