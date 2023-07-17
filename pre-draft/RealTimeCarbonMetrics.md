@@ -28,9 +28,9 @@ Harness CEO Jyoti Bansai said [APPROVED REAL QUOTE] _"We always wanted to provid
 
 Salesforce VP Sustainability Patrick Flynn said[MADE UP QUOTE]_"Salesforce is dedicated to using its full power to save the planet, and that means we need to be able to measure and optimize our own workloads, and to be able to tell our customers what the carbon footprint of their use of Salesforce amounts to. In the past we've used crude carbon footprint estimation methods, and we're excited to be able to give much more precise and actionable data to our engineers and customers"._
 
-CloudZero CEO Erik Petersen said [MADE UP QUOTE]_"As a leading cloud cost optimization tool that works across all the primary cloud platforms, we're delighted to see this new standard emerge, and look forward to bringing carbon optimization capabilities to our customer base"_.
+CloudZero CEO Erik Petersen said [APPROVED REAL QUOTE]_“Sustainability has long been a concern for cloud engineering teams. But for as long as it’s been on engineers’ minds, the missing link in making sustainability a non-functional requirement has been the data. Every engineering decision is a buying decision — and consequently, an emissions decision — but without real-time data on cloud infrastructure’s cost and carbon consequences, engineers haven’t been able to prioritize efficiency as they build. MEC-RT is a crucial step in establishing a universal definition of cloud sustainability; now it’s up to organizations to quantify and optimize their cloud efficiency in the name of sustainability — an existentially urgent concern for all of us.” — Erik Peterson CTO and Founder, CloudZero_.
 
-To learn more, go to [https://greensoftware.foundation/projects](https://greensoftware.foundation/projects) and to see the MEC-RT specification see [MADE UP URL] [https://github.com/Green-Software-Foundation/mec-rt/](https://github.com/Green-Software-Foundation/carbon-aware-sdk).
+To learn more, go to [https://greensoftware.foundation/projects](https://greensoftware.foundation/projects) and to see the MEC-RT specification see [https://github.com/Green-Software-Foundation/real-time-cloud/](https://github.com/Green-Software-Foundation/real-time-cloud).
 
 **FREQUENTLY ASKED QUESTIONS**
 
